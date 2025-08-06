@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
 body {
   background-image: url('image/background.jpg');
   background-repeat: no-repeat;
@@ -31,14 +33,14 @@ body {
   width: 80%;
   height: 80%;
   margin: auto;
-  font-family: 'Nobile', sans-serif;
+  font-family: 'Dancing Script', sans-serif;
 }
 
 .birthday-card .text > p {
   font-size: 1.1em;
   color: #01272c;
   list-style: 1.4;
-  font-style: italic;
+  font-style: normal;
   text-align: center;
   margin: 30px auto 0 auto;
 }
